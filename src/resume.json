@@ -1,0 +1,113 @@
+{
+  "basics": {
+    "name": "Cristian Ramírez",
+    "label": "Full stack developer",
+    "picture": "./profilePhoto.jpg",
+    "email": "cristianramirezgt@gmail.com",
+    "phone": "+502 3517 7467",
+    "website": "",
+    "summary": "",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Guatemala",
+      "countryCode": "GT",
+      "region": "VN"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "cristianrp",
+        "url": ""
+      },
+      {
+        "network": "LinkedIn",
+        "username": "cristianrp",
+        "url": "www.linkedin.com/in/cristianrp"
+      },
+      {
+        "network": "DockerHub",
+        "username": "cristianmt",
+        "url": "https://hub.docker.com/u/cristianmt/"
+      },
+      {
+        "network": "Twitter",
+        "username": "RamirezAlfredo_",
+        "url": "https://twitter.com/RamirezAlfredo_"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Grupo Rosul",
+      "position": "Analyst and full stack developer",
+      "website": "",
+      "startDate": "2015-01-07",
+      "endDate": "",
+      "summary": "I am currently working as a lead front end developer on a small React team building Insurance applications and I am across multiple applications that have been built or are being built using our new development stack. IAG are keen to utilise the latest front end technologies and we have had great success as a team using React/Redux running on a Node Express server and using an API backend architecture to access the various IAG systems. We are striving to increase the quality of our projects with good test coverage and code reviews and improving our continuous integration practices.",
+      "highlights": []
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Universidad Mariano Gálvez de Guatemala",
+      "area": "Systems Engineering",
+      "studyType": "Systems Engineering",
+      "startDate": "2016",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Centro Educativo Técnico Laboral KINAL",
+      "area": "IT",
+      "studyType": "Périto en Informática",
+      "startDate": "2013",
+      "endDate": "2015",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Full stack developer",
+      "level": "Master",
+      "keywords": [
+        "Java",
+        "Android",
+        "C#",
+        "ASP.NET",
+        "Node",
+        "React",
+        "Git",
+        "SQL",
+        "Ruby on Rails",
+        "Python",
+        "Javascript",
+        "Angular",
+        "ES6",
+        "Sass",
+        "Webpack",
+        "Firebase",
+        "SCRUM"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [
+    {
+      "name": "GYM",
+      "keywords": [
+        "workout"
+      ]
+    },
+    {
+      "name": "Guitar",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
