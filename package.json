@@ -3,6 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "bootstrap-loader": "^2.2.0",
+    "bootstrap-sass": "^3.3.7",
+    "font-awesome-webpack-sass": "^0.0.3",
+    "moment": "^2.18.1",
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-scripts": "1.0.17"

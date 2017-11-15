@@ -18,21 +18,25 @@
       {
         "network": "Github",
         "username": "cristianrp",
-        "url": ""
+        "keyword": "github",
+        "url": "https://github.com/CristianRP"
       },
       {
         "network": "LinkedIn",
         "username": "cristianrp",
-        "url": "www.linkedin.com/in/cristianrp"
+        "keyword": "linkedin-square",
+        "url": "https://www.linkedin.com/in/cristianrp"
       },
       {
         "network": "DockerHub",
         "username": "cristianmt",
+        "keyword": "code",
         "url": "https://hub.docker.com/u/cristianmt/"
       },
       {
         "network": "Twitter",
         "username": "RamirezAlfredo_",
+        "keyword": "twitter-square",
         "url": "https://twitter.com/RamirezAlfredo_"
       }
     ]
@@ -44,7 +48,7 @@
       "website": "",
       "startDate": "2015-01-07",
       "endDate": "",
-      "summary": "I am currently working as a lead front end developer on a small React team building Insurance applications and I am across multiple applications that have been built or are being built using our new development stack. IAG are keen to utilise the latest front end technologies and we have had great success as a team using React/Redux running on a Node Express server and using an API backend architecture to access the various IAG systems. We are striving to increase the quality of our projects with good test coverage and code reviews and improving our continuous integration practices.",
+      "summary": "Led the development of Android Apps and adoption of design patterns like MVP. Full stack development using Java, ASP.Net, Knockout.js, Bootstrap, Oracle and SQL Server.",
       "highlights": []
     }
   ],
@@ -54,7 +58,7 @@
       "institution": "Universidad Mariano Gálvez de Guatemala",
       "area": "Systems Engineering",
       "studyType": "Systems Engineering",
-      "startDate": "2016",
+      "startDate": "2016-01-01",
       "endDate": "",
       "gpa": "",
       "courses": []
@@ -63,8 +67,8 @@
       "institution": "Centro Educativo Técnico Laboral KINAL",
       "area": "IT",
       "studyType": "Périto en Informática",
-      "startDate": "2013",
-      "endDate": "2015",
+      "startDate": "2013-01-01",
+      "endDate": "2015-01-01",
       "gpa": "",
       "courses": []
     }
@@ -100,9 +104,7 @@
   "interests": [
     {
       "name": "GYM",
-      "keywords": [
-        "workout"
-      ]
+      "keywords": ["workout"]
     },
     {
       "name": "Guitar",
